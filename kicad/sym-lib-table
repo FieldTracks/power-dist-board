@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name ESP32-DEVKITC-32D)(type Legacy)(uri /home/jan/src/fieldtracks/power-dist-board/symbols/ESP32-DEVKITC-32D.lib)(options "")(descr ""))
+  (lib (name D36V6F3)(type Legacy)(uri /home/jan/src/fieldtracks/power-dist-board/symbols/D36V6F3.lib)(options "")(descr ""))
+  (lib (name hw-384)(type Legacy)(uri ${KIPRJMOD}/hw-384.lib)(options "")(descr ""))
+  (lib (name XL60919)(type Legacy)(uri ${KIPRJMOD}/XL60919.lib)(options "")(descr ""))
+)
