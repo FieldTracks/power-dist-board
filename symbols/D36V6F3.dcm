@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP D24V50F5
+F https://www.pololu.com/product/3791/specs
+$ENDCMP
+#
 $CMP D36V6F3
 F https://www.pololu.com/product/3791/specs
 $ENDCMP
