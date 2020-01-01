@@ -1,3 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LM2596S
+F https://www.pololu.com/product/3791/specs
+$ENDCMP
+#
+$CMP xL6019
+F https://www.pololu.com/product/3791/specs
+$ENDCMP
+#
+$CMP xL6019_copy
+F https://www.pololu.com/product/3791/specs
+$ENDCMP
+#
 #End Doc Library
